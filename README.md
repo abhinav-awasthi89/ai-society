@@ -56,9 +56,8 @@ Stay tuned for updates, documentation, simulation demos, and publication drafts!
 
 ## 📬 Connect With Us
 Follow the journey on:
-- [LinkedIn]()
-- [Twitter/X]()
-- [Reddit]()
+- [LinkedIn](https://www.linkedin.com/in/abhinav-awasthi-1aba63330/)
+- [Twitter/X](https://x.com/Abhinav4wasthi)
 
 📂 Contributions, feedback, and discussions are welcome — let’s co-create the future of AI.
 
