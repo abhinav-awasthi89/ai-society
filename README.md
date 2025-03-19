@@ -56,9 +56,8 @@ Stay tuned for updates, documentation, simulation demos, and publication drafts!
 
 ## 📬 Connect With Us
 Follow the journey on:
-- [LinkedIn]()
-- [Twitter/X]()
-- [Reddit]()
+- [LinkedIn](https://www.linkedin.com/in/abhinav-awasthi-1aba63330/)
+- [Twitter/X](https://x.com/Abhinav4wasthi)
 
 📂 Contributions, feedback, and discussions are welcome — let’s co-create the future of AI.
 
@@ -67,7 +66,7 @@ Follow the journey on:
 ---
 
 ## 📄 License
-TBD (Preferably AGPL + Academic Attribution clause)
+This project is released under AGPL-3.0 with an academic attribution clause (see LICENSE.md for details).
 
 ---
 
