@@ -1,21 +1,35 @@
-MIT License
+# ⚠️ License Notice
 
-Copyright (c) 2025 [Your Name or Organization]
+This project is shared in the spirit of open, research-first collaboration — not commercial reuse without attribution.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 📄 LICENSE — AGPL + Academic Attribution Clause
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Copyright © 2025
+
+This software is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)** with an additional clause for academic attribution and research-first intent.
+
+### Summary:
+- 🔓 You are free to **use, modify, and share** the code under AGPL terms.
+- 📚 You **must cite this project** in any derivative work, academic publication, or public presentation that uses its ideas, architecture, or design principles.
+- 🚫 **Direct cloning or replication of core system design without attribution or academic intent is strictly prohibited**.
+- 🤝 Collaboration is encouraged, but **copying core concepts for commercial or institutional use without explicit permission is unethical** and violates the spirit of this license.
+
+---
+
+## Additional Terms (Attribution Clause):
+
+1. Any reuse or modification of this project’s **core architecture (agent models, social simulation structure, generational memory, bottom-up emergence design)** must include clear citation to this original project in your documentation or publication.
+2. If this work inspires your research or product, you must acknowledge the original authors in your credits, README, or reference section.
+3. **Forks for public or institutional use must include a clear note on origin** in their README.
+
+---
+
+## License Source
+
+This project follows the [GNU AGPL v3.0 License](https://www.gnu.org/licenses/agpl-3.0.html) and extends it with an additional attribution requirement for academic ethics.
+
+---
+
+📬 For permission requests or citation details, please contact the original maintainers via the project's repository.
