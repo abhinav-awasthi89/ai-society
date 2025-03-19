@@ -66,7 +66,7 @@ Follow the journey on:
 ---
 
 ## 📄 License
-TBD (Preferably AGPL + Academic Attribution clause)
+This project is released under AGPL-3.0 with an academic attribution clause (see LICENSE.md for details).
 
 ---
 
